@@ -33,13 +33,6 @@
 
 ---
 
-<details>
-  <summary>:zap: Github Stats</summary>
-
-  <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
-
-</details>
-
 [website]: https://adoltech.com.com
 [instagram]: https://instagram.com/azharhot04
 [linkedin]: https://linkedin.com/in/mhdtoazar
